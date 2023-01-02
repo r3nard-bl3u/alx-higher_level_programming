@@ -1,1 +1,1 @@
-class rectangle:
+class Rectangle:
