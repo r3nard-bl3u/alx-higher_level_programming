@@ -1,5 +1,3 @@
-s (62 sloc)  2.17 KB
-
 #!/usr/bin/python3
 """Defines a Rectangle class."""
 
